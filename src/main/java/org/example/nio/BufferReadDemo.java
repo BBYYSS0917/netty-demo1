@@ -1,4 +1,4 @@
-package org.example;
+package org.example.nio;
 
 import java.nio.IntBuffer;
 import java.util.Arrays;
